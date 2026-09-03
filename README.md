@@ -29,6 +29,7 @@
 - [开放问题](docs/open-questions.md)：尚未确定、需要验证或讨论的问题
 - [高校案例证据](docs/school-cases.md)：可核查的高校创新创业实践参考
 - [学生创业工商注册流程](docs/company-registration-process.md)：学校侧申请与登记机关流程的区分
+- [高校公司申请链分析](docs/company-registration-school-chains.md)：河北高校学生企业进入学校体系的流程对比
 - [决策日志](CHANGELOG.md)：重要方向判断和后续变更记录
 
 ## 当前边界
