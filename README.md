@@ -111,6 +111,8 @@
 - [学校流程咨询函](docs/templates/school-process-inquiry.md)：向二级学院、创新创业教研室和学生处咨询；
 - [校内经营场地申请书](docs/templates/campus-venue-application.md)：申请大学生创业园场地；
 - [河北省登记机关预审问题单](docs/templates/hebei-registration-precheck.md)：带材料向登记机关核验；
+- [注册办理手册](docs/registration-workflow.md)：每一步的文件、部门、线上/线下方式和留证要求；
+- [官方申请与核验入口](docs/official-links.md)：学校、河北政务服务、市场监管平台和法律依据链接；
 - [证据案例汇总](docs/school-cases.md)：高校及河北省相关公开材料；
 - [决策日志](CHANGELOG.md)：记录项目方向和流程判断的变化。
 
