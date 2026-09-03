@@ -31,6 +31,7 @@
 - [学生创业工商注册流程](docs/company-registration-process.md)：学校侧申请与登记机关流程的区分
 - [高校公司申请链分析](docs/company-registration-school-chains.md)：河北高校学生企业进入学校体系的流程对比
 - [河北学生个体工商户落地计划](docs/hebei-student-individual-business-plan.md)：从学校申请到河北省登记机关领照的执行计划
+- [河北首个试点执行清单](docs/hebei-student-individual-business-execution-checklist.md)：从学校联系到个体工商户领照的操作清单
 - [决策日志](CHANGELOG.md)：重要方向判断和后续变更记录
 
 ## 当前边界
