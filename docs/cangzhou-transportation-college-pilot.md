@@ -257,6 +257,8 @@
 
 已有通用模板可参考：[学校流程咨询函](templates/school-process-inquiry.md)、[校内经营场地申请书](templates/campus-venue-application.md)、[河北省登记机关预审问题单](templates/hebei-registration-precheck.md)。
 
+本次新增协议讨论稿：[沧州交通学院大学生创业园场地使用/入驻协议（讨论稿）](templates/cangzhou-campus-incubation-agreement-draft.md)。该稿按河北科技师范学院公开入驻协议的条款结构整理，但所有涉及沧州交通学院签约主体、场地权限、产权材料、费用和营业执照登记的内容均标注为待确认。
+
 ## 五、当前流程中最关键的 4 个待确认点
 
 1. 创新创业教研室是否直接受理“个体工商户创业园入驻/场地申请”，还是仅负责大创项目初审；
