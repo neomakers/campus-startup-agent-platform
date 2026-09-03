@@ -33,6 +33,7 @@
 - [河北学生个体工商户落地计划](docs/hebei-student-individual-business-plan.md)：从学校申请到河北省登记机关领照的执行计划
 - [河北首个试点执行清单](docs/hebei-student-individual-business-execution-checklist.md)：从学校联系到个体工商户领照的操作清单
 - [办理材料模板](docs/templates/school-process-inquiry.md)：学校咨询函、场地申请书和登记预审问题单
+- [沧州交通学院试点方案](docs/cangzhou-transportation-college-pilot.md)：结合创新创业教研室和大学生创业园的定制流程
 - [决策日志](CHANGELOG.md)：重要方向判断和后续变更记录
 
 ## 当前边界
